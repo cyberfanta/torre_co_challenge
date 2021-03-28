@@ -60,4 +60,7 @@ dependencies {
 //    https://search.maven.org/artifact/org.apache.commons/commons-lang3/3.12.0/jar
 //    implementation 'org.apache.commons:commons-lang3:3.12.0'
     implementation group: 'commons-lang', name: 'commons-lang', version: '2.6'
+    implementation 'com.squareup.okhttp3:okhttp:4.1.0'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
 }
